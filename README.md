@@ -18,7 +18,6 @@
 - 📖 Studying Fullstak Web Development at&nbsp;<a href="https://github.com/betrybe" target="_blank">Trybe</a>
 </div>  
 <br>
-<br>
  
  <div>
   <a href="https://github.com/rCirelli">
