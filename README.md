@@ -10,7 +10,7 @@
 
 <div>
   
-- 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/raphael-cirelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank" style="margin-bottom: -5px"></a></div>
+- 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/raphael-cirelli/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a></div>
 </div>
 
 <div>
