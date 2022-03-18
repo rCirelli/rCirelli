@@ -15,7 +15,7 @@
 
 <div>
   
-- 📖 Studying Fullstak Web Development at&nbsp;<a href="https://github.com/betrybe" target="_blank"> <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg" style="width: 60px; margin-bottom: -3px; padding-left: 3px; margin-top:-100px"></a>
+- 📖 Studying Fullstak Web Development at&nbsp;<a href="https://github.com/betrybe" target="_blank">Trybe</a>
 </div>  
 <br>
 <br>
