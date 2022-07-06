@@ -1,16 +1,16 @@
 Hi 👋 My name is Raphael Cirelli
 ================================
 
-Web Development Student at Trybe
+Web Development Student at [Trybe](https://github.com/betrybe)
 --------------------------------
 
 I wrote my first "Hello World" 10 years ago, in C#. At college I studied Game Design, and coded in C# on Unity Engine.
-I never worked with programming, so I decided to study Web Development and start my career as a web developer.
+I never worked professionally with programming, so I decided to study Web Development and start my career as a web developer.
 
 * 🌍  I'm based in Sao Paulo, Brazil
 * 🖥️  See my portfolio at [rcirelli.github.io](http://rcirelli.github.io)
 * ✉️  You can contact me at [raphael.cirelli@protonmail.com](mailto:raphael.cirelli@protonmail.com)
-* 🧠  I'm learning React.JS
+* 🧠  I'm currently learning React.JS
 * ⚡  I LOVE PROG ROCK, specially Ayreon!
 
 ### Skills
