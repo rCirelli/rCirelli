@@ -10,7 +10,7 @@ I never worked professionally with programming, so I decided to study Web Develo
 * 🌍  I'm based in Sao Paulo, Brazil
 * 🖥️  See my portfolio at [rcirelli.github.io](http://rcirelli.github.io)
 * ✉️  You can contact me at [raphael.cirelli@proton.me](mailto:raphael.cirelli@proton.me)
-* 🧠  I'm currently learning React.JS
+* 🧠  I'm currently learning NodeJS | Docker | mySQL | Express
 * ⚡  I LOVE PROG ROCK, specially Ayreon!
 
 ### Skills
