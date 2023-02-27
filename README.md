@@ -8,10 +8,11 @@ Hi 👋 My name is Raphael Cirelli
 Fullstack Web Developer
 -----------------
 
-I wrote my first "Hello World" 10 years ago, in C#. At college I studied Game Design, and coded in C# on Unity Engine. I never worked professionally with programming, so I decided to study Fullstack Web Development at Trybe and kickstart my career as a developer.
+I wrote my first "Hello World" in 2010, in C#. At college I studied Game Design, and coded in C# on Unity Engine. I never worked professionally with programming, so I decided to study Fullstack Web Development at Trybe and kickstart my career as a developer.
 
 At Trybe I learned Front-end and Back-end development. Using technologies such as Javascript/Typescript, React, Redux, Node, Express, Python, SQL, and MongoDB. 
 Also learned about Data Structures and Algorithms, Design Patterns, Testing, Agile Methodologies, Functional and Object Oriented paradigms. And lots of hands-on practice.
+
 
 
 * 🌍  I'm based in Sao Paulo, Brazil
