@@ -11,7 +11,7 @@ Backend Developer
 I wrote my first "Hello World" 10 years ago, in C#. At college I studied Game Design, and coded in C# on Unity Engine. I never worked professionally with programming, so I decided to study Fullstack Web Development at Trybe and kickstart my career as a developer.
 
 * 🌍  I'm based in Sao Paulo, Brazil
-* 🖥️  See my portfolio at [rcirelli.github.io](http://rcirelli.github.io)
+* 🖥️  See my portfolio at [cirelli.dev](https://cirelli.dev)
 * ✉️  You can contact me at [raphael.cirelli@proton.me](mailto:raphael.cirelli@proton.me)
 * 🧠  I'm learning Docker | NodeJS | ExpressJS | mySQL | Sequelize
 * ⚡  I LOVE prog rock!
