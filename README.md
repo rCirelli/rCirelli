@@ -20,7 +20,7 @@ Also learned about Data Structures and Algorithms, Design Patterns, Testing, Agi
 * 🌍  I'm based in Sao Paulo, Brazil
 * 🖥️  See my portfolio at [cirelli.dev](https://cirelli.dev)
 * ✉️  You can contact me at [raphael.cirelli@proton.me](mailto:raphael.cirelli@proton.me)
-* 🧠  Currently learning Python and NextJS
+* 🧠  Currently learning Python and Next 13
 * ⚡  I LOVE prog rock!
 
 ### Skills
