@@ -7,7 +7,7 @@ src="https://img.shields.io/github/followers/rcirelli?logo=github&style=for-the-
 Hi 👋 My name is Raphael Cirelli
 ================================
 
-Fullstack Web Developer
+Web Developer
 -----------------
 
 I wrote my first "Hello World" in 2010, in C#. At college I studied Game Design, and coded in C# on Unity Engine. I never worked professionally with programming, so I decided to study Fullstack Web Development at Trybe and kickstart my career as a developer.
@@ -18,9 +18,9 @@ Also learned about Data Structures and Algorithms, Design Patterns, Testing, Agi
 
 
 * 🌍  I'm based in Sao Paulo, Brazil
-* 🖥️  See my portfolio at [cirelli.dev](https://cirelli.dev)
+<!--* 🖥️  See my portfolio at [cirelli.dev](https://cirelli.dev)-->
 * ✉️  You can contact me at [raphael.cirelli@proton.me](mailto:raphael.cirelli@proton.me)
-* 🧠  Currently learning Python and Next 13
+<!--* 🧠  Currently learning Python and Next 13-->
 * ⚡  I LOVE prog rock!
 
 ### Skills
